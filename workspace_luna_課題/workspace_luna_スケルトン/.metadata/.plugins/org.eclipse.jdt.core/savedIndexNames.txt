@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\kokon\Documents\自分用\workspace_luna_課題\workspace_luna_スケルトン\.metadata\.plugins\org.eclipse.jdt.core
+1739815413.index
+3275241479.index

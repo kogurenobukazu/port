@@ -1,0 +1,179 @@
+
+12月 22, 2020 20:31:08.17 NEW SESSION
+12月 22, 2020 20:31:08.17 [8612:7008:1222/203108.123:ERROR:device_event_log_impl.cc(211)] [20:31:08.124] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+12月 22, 2020 20:31:08.18 [8612:7008:1222/203108.124:ERROR:device_event_log_impl.cc(211)] [20:31:08.124] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+12月 22, 2020 20:32:54.28 [8612:7008:1222/203254.279:ERROR:device_event_log_impl.cc(211)] [20:32:54.280] USB: usb_service_win.cc:258 Failed to get device driver name: 要素が見つかりません。 (0x490)
+12月 22, 2020 20:41:01.81 [1222/204101.775:ERROR:directory_reader_win.cc(43)] FindFirstFile: 指定されたパスが見つかりません。 (0x3)
+
+12月 23, 2020 15:50:56.67 NEW SESSION
+12月 23, 2020 15:50:56.67 [6720:6424:1223/155056.675:ERROR:device_event_log_impl.cc(211)] [15:50:56.674] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+12月 23, 2020 15:50:56.71 [6720:6424:1223/155056.675:ERROR:device_event_log_impl.cc(211)] [15:50:56.675] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+12月 23, 2020 16:00:44.76 [1223/160044.746:ERROR:directory_reader_win.cc(43)] FindFirstFile: 指定されたパスが見つかりません。 (0x3)
+12月 23, 2020 17:32:06.63 [6720:6424:1223/173206.632:ERROR:device_event_log_impl.cc(211)] [17:32:06.632] USB: usb_service_win.cc:258 Failed to get device driver name: 要素が見つかりません。 (0x490)
+
+12月 24, 2020 20:06:28.35 NEW SESSION
+12月 24, 2020 20:06:28.35 [10448:10936:1224/200628.351:ERROR:device_event_log_impl.cc(211)] [20:06:28.345] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+12月 24, 2020 20:06:28.36 [10448:10936:1224/200628.351:ERROR:device_event_log_impl.cc(211)] [20:06:28.346] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+12月 24, 2020 20:07:58.08 [7108:4608:1224/200758.082:ERROR:device_event_log_impl.cc(211)] [20:07:58.083] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+12月 24, 2020 20:07:58.09 [7108:4608:1224/200758.082:ERROR:device_event_log_impl.cc(211)] [20:07:58.086] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+12月 24, 2020 20:10:16.73 [8188:6060:1224/201016.732:ERROR:device_event_log_impl.cc(211)] [20:10:16.738] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+12月 24, 2020 20:10:16.76 [8188:6060:1224/201016.748:ERROR:device_event_log_impl.cc(211)] [20:10:16.744] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+12月 24, 2020 20:11:37.36 [8188:6060:1224/201137.362:ERROR:CONSOLE(4166)] "Uncaught TypeError: Cannot read property 'restore' of null", source: chrome://new-tab-page/new_tab_page.js (4166)
+12月 24, 2020 20:11:37.88 [8188:6060:1224/201137.885:ERROR:CONSOLE(4166)] "Uncaught TypeError: Cannot read property 'restore' of null", source: chrome://new-tab-page/new_tab_page.js (4166)
+12月 24, 2020 20:11:38.21 [8188:6060:1224/201138.215:ERROR:CONSOLE(4166)] "Uncaught TypeError: Cannot read property 'restore' of null", source: chrome://new-tab-page/new_tab_page.js (4166)
+12月 24, 2020 20:20:08.84 [1224/202008.841:ERROR:directory_reader_win.cc(43)] FindFirstFile: 指定されたパスが見つかりません。 (0x3)
+12月 24, 2020 20:20:42.97 [7256:8216:1224/202042.960:ERROR:device_event_log_impl.cc(211)] [20:20:42.971] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+12月 24, 2020 20:20:42.99 [7256:8216:1224/202042.960:ERROR:device_event_log_impl.cc(211)] [20:20:42.973] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+12月 24, 2020 20:30:37.02 [1224/203037.027:ERROR:directory_reader_win.cc(43)] FindFirstFile: 指定されたパスが見つかりません。 (0x3)
+12月 24, 2020 20:31:11.94 [7256:8216:1224/203111.945:ERROR:device_event_log_impl.cc(211)] [20:31:11.946] USB: usb_service_win.cc:258 Failed to get device driver name: 要素が見つかりません。 (0x490)
+12月 24, 2020 20:32:28.77 [4924:11520:1224/203228.771:ERROR:device_event_log_impl.cc(211)] [20:32:28.771] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+12月 24, 2020 20:32:28.78 [4924:11520:1224/203228.771:ERROR:device_event_log_impl.cc(211)] [20:32:28.772] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+12月 24, 2020 20:42:25.87 [1224/204225.876:ERROR:directory_reader_win.cc(43)] FindFirstFile: 指定されたパスが見つかりません。 (0x3)
+
+12月 25, 2020 18:35:58.18 NEW SESSION
+12月 25, 2020 18:35:58.18 [2252:10412:1225/183558.127:ERROR:device_event_log_impl.cc(211)] [18:35:58.120] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+12月 25, 2020 18:35:58.21 [2252:10412:1225/183558.130:ERROR:device_event_log_impl.cc(211)] [18:35:58.123] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+12月 25, 2020 18:45:51.32 [1225/184551.326:ERROR:directory_reader_win.cc(43)] FindFirstFile: 指定されたパスが見つかりません。 (0x3)
+12月 25, 2020 18:59:56.85 [2512:2868:1225/185956.857:ERROR:device_event_log_impl.cc(211)] [18:59:56.843] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+12月 25, 2020 18:59:56.86 [2512:2868:1225/185956.858:ERROR:device_event_log_impl.cc(211)] [18:59:56.844] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+12月 25, 2020 19:09:51.00 [1225/190951.005:ERROR:directory_reader_win.cc(43)] FindFirstFile: 指定されたパスが見つかりません。 (0x3)
+12月 25, 2020 19:17:27.00 [7120:7708:1225/191727.005:ERROR:device_event_log_impl.cc(211)] [19:17:26.998] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+12月 25, 2020 19:17:27.02 [7120:7708:1225/191727.006:ERROR:device_event_log_impl.cc(211)] [19:17:26.999] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+12月 25, 2020 19:20:34.73 [7120:7708:1225/192034.732:ERROR:device_event_log_impl.cc(211)] [19:20:34.733] USB: usb_service_win.cc:258 Failed to get device driver name: 要素が見つかりません。 (0x490)
+12月 25, 2020 19:27:20.12 [1225/192720.127:ERROR:directory_reader_win.cc(43)] FindFirstFile: 指定されたパスが見つかりません。 (0x3)
+
+1月 04, 2021 16:07:06.15 NEW SESSION
+1月 04, 2021 16:07:06.15 [7468:7664:0104/160706.147:ERROR:device_event_log_impl.cc(211)] [16:07:06.137] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+1月 04, 2021 16:07:06.30 [7468:7664:0104/160706.148:ERROR:device_event_log_impl.cc(211)] [16:07:06.138] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+1月 04, 2021 16:11:31.22 [4784:12384:0104/161131.220:ERROR:device_event_log_impl.cc(211)] [16:11:31.216] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+1月 04, 2021 16:11:31.23 [4784:12384:0104/161131.221:ERROR:device_event_log_impl.cc(211)] [16:11:31.217] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+1月 04, 2021 16:21:26.41 [0104/162126.382:ERROR:directory_reader_win.cc(43)] FindFirstFile: 指定されたパスが見つかりません。 (0x3)
+1月 04, 2021 19:16:48.69 [7644:10828:0104/191648.688:ERROR:device_event_log_impl.cc(211)] [19:16:48.673] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+1月 04, 2021 19:16:48.73 [7644:10828:0104/191648.690:ERROR:device_event_log_impl.cc(211)] [19:16:48.676] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+1月 04, 2021 19:25:49.88 [7644:10828:0104/192549.887:ERROR:device_event_log_impl.cc(211)] [19:25:49.897] USB: usb_service_win.cc:258 Failed to get device driver name: 要素が見つかりません。 (0x490)
+1月 04, 2021 19:26:42.77 [0104/192642.777:ERROR:directory_reader_win.cc(43)] FindFirstFile: 指定されたパスが見つかりません。 (0x3)
+1月 04, 2021 19:39:09.12 [1736:8232:0104/193909.123:ERROR:device_event_log_impl.cc(211)] [19:39:09.123] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+1月 04, 2021 19:39:09.15 [1736:8232:0104/193909.124:ERROR:device_event_log_impl.cc(211)] [19:39:09.124] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+1月 04, 2021 19:45:05.40 [4932:9888:0104/194505.400:ERROR:device_event_log_impl.cc(211)] [19:45:05.386] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+1月 04, 2021 19:45:05.42 [4932:9888:0104/194505.402:ERROR:device_event_log_impl.cc(211)] [19:45:05.387] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+1月 04, 2021 19:54:55.40 [0104/195455.404:ERROR:directory_reader_win.cc(43)] FindFirstFile: 指定されたパスが見つかりません。 (0x3)
+
+1月 05, 2021 18:04:09.25 NEW SESSION
+1月 05, 2021 18:04:09.25 [12652:6336:0105/180409.253:ERROR:device_event_log_impl.cc(211)] [18:04:09.249] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+1月 05, 2021 18:04:09.28 [12652:6336:0105/180409.255:ERROR:device_event_log_impl.cc(211)] [18:04:09.250] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+1月 05, 2021 18:27:03.13 [2384:6280:0105/182703.130:ERROR:device_event_log_impl.cc(211)] [18:27:03.117] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+1月 05, 2021 18:27:03.13 [2384:6280:0105/182703.130:ERROR:device_event_log_impl.cc(211)] [18:27:03.118] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+1月 05, 2021 18:35:19.86 [2384:6280:0105/183519.862:ERROR:device_event_log_impl.cc(211)] [18:35:19.867] USB: usb_service_win.cc:258 Failed to get device driver name: 要素が見つかりません。 (0x490)
+1月 05, 2021 18:36:56.15 [0105/183656.152:ERROR:directory_reader_win.cc(43)] FindFirstFile: 指定されたパスが見つかりません。 (0x3)
+
+1月 06, 2021 19:26:31.61 NEW SESSION
+1月 06, 2021 19:26:31.61 [7604:13596:0106/192631.607:ERROR:device_event_log_impl.cc(211)] [19:26:31.611] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+1月 06, 2021 19:26:31.67 [7604:13596:0106/192631.607:ERROR:device_event_log_impl.cc(211)] [19:26:31.612] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+1月 06, 2021 19:36:23.35 [0106/193623.337:ERROR:directory_reader_win.cc(43)] FindFirstFile: 指定されたパスが見つかりません。 (0x3)
+
+1月 07, 2021 16:19:05.87 NEW SESSION
+1月 07, 2021 16:19:05.87 [11584:6008:0107/161905.867:ERROR:device_event_log_impl.cc(211)] [16:19:05.854] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+1月 07, 2021 16:19:05.93 [11584:6008:0107/161905.869:ERROR:device_event_log_impl.cc(211)] [16:19:05.855] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+1月 07, 2021 16:25:09.86 [11584:6008:0107/162509.869:ERROR:device_event_log_impl.cc(211)] [16:25:09.868] USB: usb_service_win.cc:258 Failed to get device driver name: 要素が見つかりません。 (0x490)
+1月 07, 2021 16:27:25.82 [1364:3568:0107/162725.828:ERROR:device_event_log_impl.cc(211)] [16:27:25.829] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+1月 07, 2021 16:27:25.85 [1364:3568:0107/162725.828:ERROR:device_event_log_impl.cc(211)] [16:27:25.830] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+1月 07, 2021 16:37:16.09 [0107/163715.996:ERROR:directory_reader_win.cc(43)] FindFirstFile: 指定されたパスが見つかりません。 (0x3)
+1月 07, 2021 17:10:48.18 [1364:3568:0107/171048.187:ERROR:device_event_log_impl.cc(211)] [17:10:48.188] USB: usb_service_win.cc:258 Failed to get device driver name: 要素が見つかりません。 (0x490)
+1月 07, 2021 18:14:16.43 [1364:12212:0107/181416.432:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+1月 07, 2021 18:36:28.03 [1364:12212:0107/183628.031:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+1月 07, 2021 19:32:14.80 [1364:12212:0107/193214.803:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+1月 07, 2021 20:07:40.03 [1364:12212:0107/200740.033:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+1月 08, 2021 18:05:55.36 NEW SESSION
+1月 08, 2021 18:05:55.36 [952:10548:0108/180555.360:ERROR:device_event_log_impl.cc(211)] [18:05:55.349] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+1月 08, 2021 18:05:55.43 [952:10548:0108/180555.367:ERROR:device_event_log_impl.cc(211)] [18:05:55.356] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+1月 08, 2021 18:05:55.44 [952:10548:0108/180555.367:ERROR:device_event_log_impl.cc(211)] [18:05:55.356] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+1月 08, 2021 18:09:03.48 [952:13256:0108/180903.482:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+1月 08, 2021 18:09:11.13 [952:10548:0108/180911.136:ERROR:device_event_log_impl.cc(211)] [18:09:11.140] USB: usb_service_win.cc:258 Failed to get device driver name: 要素が見つかりません。 (0x490)
+1月 08, 2021 18:14:06.71 [952:13256:0108/181406.715:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+1月 08, 2021 18:15:50.20 [0108/181550.203:ERROR:directory_reader_win.cc(43)] FindFirstFile: 指定されたパスが見つかりません。 (0x3)
+1月 08, 2021 18:19:23.72 [952:13256:0108/181923.729:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+1月 08, 2021 18:29:30.72 [952:13256:0108/182930.728:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+1月 08, 2021 19:23:11.19 NEW SESSION
+1月 08, 2021 19:23:11.19 [12784:9260:0108/192311.188:ERROR:device_event_log_impl.cc(211)] [19:23:11.186] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+1月 08, 2021 19:23:11.22 [12784:9260:0108/192311.191:ERROR:device_event_log_impl.cc(211)] [19:23:11.190] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+
+1月 09, 2021 15:45:23.97 NEW SESSION
+1月 09, 2021 15:45:23.97 [12884:8136:0109/154523.966:ERROR:device_event_log_impl.cc(211)] [15:45:23.965] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+1月 09, 2021 15:45:24.22 [12884:8136:0109/154523.968:ERROR:device_event_log_impl.cc(211)] [15:45:23.967] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+1月 09, 2021 15:55:06.22 [0109/155506.226:ERROR:directory_reader_win.cc(43)] FindFirstFile: 指定されたパスが見つかりません。 (0x3)
+1月 09, 2021 16:01:45.21 [12884:13912:0109/160145.212:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+1月 09, 2021 16:02:00.05 [12884:8136:0109/160200.054:ERROR:device_event_log_impl.cc(211)] [16:02:00.047] USB: usb_service_win.cc:258 Failed to get device driver name: 要素が見つかりません。 (0x490)
+1月 09, 2021 16:24:41.37 [12884:13912:0109/162441.377:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+1月 09, 2021 16:43:52.79 [12884:13912:0109/164352.799:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+1月 09, 2021 16:43:55.02 [12884:13912:0109/164355.021:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+1月 09, 2021 17:03:49.11 [12884:13912:0109/170349.110:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+1月 09, 2021 17:03:51.33 [12884:13912:0109/170351.334:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+1月 09, 2021 17:19:04.94 [12884:13912:0109/171904.949:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+1月 09, 2021 17:19:07.16 [12884:13912:0109/171907.168:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+1月 09, 2021 17:44:24.62 [12884:13912:0109/174424.624:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+1月 09, 2021 17:59:43.45 [12884:13912:0109/175943.457:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+1月 09, 2021 17:59:45.66 [12884:13912:0109/175945.669:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+1月 09, 2021 18:19:55.76 [12884:13912:0109/181955.764:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+1月 09, 2021 18:35:27.02 [12884:13912:0109/183527.026:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+1月 09, 2021 18:40:30.31 [260:11216:0109/184030.312:ERROR:device_event_log_impl.cc(211)] [18:40:30.306] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+1月 09, 2021 18:40:30.32 [260:11216:0109/184030.313:ERROR:device_event_log_impl.cc(211)] [18:40:30.307] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+1月 09, 2021 18:50:27.09 [0109/185027.095:ERROR:directory_reader_win.cc(43)] FindFirstFile: 指定されたパスが見つかりません。 (0x3)
+1月 09, 2021 18:55:40.31 [260:2032:0109/185540.314:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+1月 09, 2021 18:55:48.15 [260:11216:0109/185548.155:ERROR:device_event_log_impl.cc(211)] [18:55:48.162] USB: usb_service_win.cc:258 Failed to get device driver name: 要素が見つかりません。 (0x490)
+1月 09, 2021 19:25:49.02 [5444:7852:0109/192549.026:ERROR:device_event_log_impl.cc(211)] [19:25:49.034] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+1月 09, 2021 19:25:49.05 [5444:7852:0109/192549.026:ERROR:device_event_log_impl.cc(211)] [19:25:49.036] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+1月 09, 2021 19:31:11.92 [5444:14252:0109/193111.925:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+1月 09, 2021 19:31:17.42 [5444:7852:0109/193117.426:ERROR:device_event_log_impl.cc(211)] [19:31:17.434] USB: usb_service_win.cc:258 Failed to get device driver name: 要素が見つかりません。 (0x490)
+1月 09, 2021 19:35:39.08 [0109/193539.089:ERROR:directory_reader_win.cc(43)] FindFirstFile: 指定されたパスが見つかりません。 (0x3)
+1月 09, 2021 20:03:14.40 [5444:14252:0109/200314.402:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+1月 09, 2021 20:23:34.13 [5444:14252:0109/202334.133:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+1月 12, 2021 16:30:53.81 NEW SESSION
+1月 12, 2021 16:30:53.81 [1160:12744:0112/163053.812:ERROR:device_event_log_impl.cc(211)] [16:30:53.813] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+1月 12, 2021 16:30:53.86 [1160:12744:0112/163053.812:ERROR:device_event_log_impl.cc(211)] [16:30:53.813] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+1月 12, 2021 16:40:42.95 [0112/164042.895:ERROR:directory_reader_win.cc(43)] FindFirstFile: 指定されたパスが見つかりません。 (0x3)
+1月 12, 2021 16:52:55.87 [1160:9848:0112/165255.878:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+1月 12, 2021 16:53:04.70 [1160:12744:0112/165304.704:ERROR:device_event_log_impl.cc(211)] [16:53:04.712] USB: usb_service_win.cc:258 Failed to get device driver name: 要素が見つかりません。 (0x490)
+1月 12, 2021 17:13:17.79 [1160:9848:0112/171317.796:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+1月 12, 2021 17:18:21.03 [1160:9848:0112/171821.036:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+1月 12, 2021 17:23:25.21 [1160:9848:0112/172325.219:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+1月 12, 2021 17:26:07.09 [1160:9848:0112/172607.098:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+1月 12, 2021 17:31:26.64 [1160:9848:0112/173126.646:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+1月 12, 2021 17:59:07.04 [1160:9848:0112/175907.045:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+1月 12, 2021 18:10:44.62 [1160:9848:0112/181044.621:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+1月 12, 2021 18:15:48.82 [1160:9848:0112/181548.811:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+1月 12, 2021 18:26:09.08 [1160:9848:0112/182609.087:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+1月 12, 2021 18:36:15.60 [1160:9848:0112/183615.607:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+1月 12, 2021 19:11:47.46 [1160:9848:0112/191147.462:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+1月 12, 2021 19:26:57.97 [1160:9848:0112/192657.972:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+
+1月 12, 2021 20:16:20.94 NEW SESSION
+1月 12, 2021 20:16:20.94 [6668:9780:0112/201620.936:ERROR:device_event_log_impl.cc(211)] [20:16:20.936] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+1月 12, 2021 20:16:20.96 [6668:9780:0112/201620.938:ERROR:device_event_log_impl.cc(211)] [20:16:20.938] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+1月 12, 2021 20:17:49.65 [6668:10608:0112/201749.655:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+1月 12, 2021 20:17:56.86 [6668:9780:0112/201756.863:ERROR:device_event_log_impl.cc(211)] [20:17:56.863] USB: usb_service_win.cc:258 Failed to get device driver name: 要素が見つかりません。 (0x490)
+1月 12, 2021 20:22:52.93 [6668:10608:0112/202252.934:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+1月 12, 2021 20:26:09.11 [0112/202609.111:ERROR:directory_reader_win.cc(43)] FindFirstFile: 指定されたパスが見つかりません。 (0x3)
+
+1月 13, 2021 17:30:20.64 NEW SESSION
+1月 13, 2021 17:30:20.64 [12008:14200:0113/173020.638:ERROR:device_event_log_impl.cc(211)] [17:30:20.633] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+1月 13, 2021 17:30:20.70 [12008:14200:0113/173020.639:ERROR:device_event_log_impl.cc(211)] [17:30:20.635] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+1月 13, 2021 17:37:04.70 [11664:1788:0113/173704.706:ERROR:device_event_log_impl.cc(211)] [17:37:04.697] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+1月 13, 2021 17:37:04.72 [11664:1788:0113/173704.706:ERROR:device_event_log_impl.cc(211)] [17:37:04.699] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+1月 13, 2021 17:37:48.97 [11664:2336:0113/173748.976:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+1月 13, 2021 17:37:54.88 [11664:1788:0113/173754.888:ERROR:device_event_log_impl.cc(211)] [17:37:54.884] USB: usb_service_win.cc:258 Failed to get device driver name: 要素が見つかりません。 (0x490)
+1月 13, 2021 17:39:45.87 [7932:3860:0113/173945.876:ERROR:device_event_log_impl.cc(211)] [17:39:45.867] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+1月 13, 2021 17:39:45.88 [7932:3860:0113/173945.877:ERROR:device_event_log_impl.cc(211)] [17:39:45.868] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+
+1月 13, 2021 18:11:54.59 NEW SESSION
+1月 13, 2021 18:11:54.60 [10188:8492:0113/181154.595:ERROR:device_event_log_impl.cc(211)] [18:11:54.595] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+1月 13, 2021 18:11:54.61 [10188:8492:0113/181154.597:ERROR:device_event_log_impl.cc(211)] [18:11:54.597] USB: usb_device_handle_win.cc:1020 Failed to read descriptor from node connection: システムに接続されたデバイスが機能していません。 (0x1F)
+1月 13, 2021 18:21:46.10 [0113/182146.102:ERROR:directory_reader_win.cc(43)] FindFirstFile: 指定されたパスが見つかりません。 (0x3)
+1月 13, 2021 18:33:41.75 [10188:8492:0113/183341.757:ERROR:device_event_log_impl.cc(211)] [18:33:41.761] USB: usb_service_win.cc:258 Failed to get device driver name: 要素が見つかりません。 (0x490)
+1月 13, 2021 19:04:17.53 [10188:1256:0113/190417.539:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+1月 13, 2021 19:04:19.78 [10188:1256:0113/190419.783:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+1月 13, 2021 20:03:46.87 [10188:1256:0113/200346.875:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+1月 13, 2021 20:04:01.35 [10188:8492:0113/200401.356:ERROR:device_event_log_impl.cc(211)] [20:04:01.354] USB: usb_service_win.cc:258 Failed to get device driver name: 要素が見つかりません。 (0x490)
+1月 13, 2021 20:29:08.51 [10188:1256:0113/202908.518:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
